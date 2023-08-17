@@ -1,7 +1,7 @@
 # semesterproect
 NAME: Boampong Gabriel
 INDEX NUMBER: UEB3260522
-                            PROJECT DESCRIPTION
+                             PROJECT DESCRIPTION
  Online Exam System
 This project is a complete Online Exam System written in C++. It is a web-based 
 system that enables users to set up tests, administer tests, view and grade 
